@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun url(host: String, port: Int): String {
+        // TODO
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7864#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 03 Mar 2021 09:24:14 UTC
+record: -1
